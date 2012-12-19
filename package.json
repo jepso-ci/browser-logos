@@ -1,6 +1,6 @@
 {
   "name": "browser-logos",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A collection of SVG logos for different web-browsers",
   "main": "index.js",
   "dependencies": {},
