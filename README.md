@@ -1,6 +1,30 @@
+[![Build Status](https://travis-ci.org/jepso-ci/browser-logos.png?branch=master)](https://travis-ci.org/jepso-ci/browser-logos)
 # browser-logos
 
   A collection of SVG logos for different web-browsers
+
+## Usage
+
+  For each of `ie`, `chrome`, `firefox`, `opera`, `android` and `apple`, you can do the following:
+
+```javascript
+var logos = require('browser-logos');
+
+//get the default svg text, e.g. for use in an image tag:
+//  <image src="ie.svg" />
+//by default it will have width and height of 256 and this
+//will scale properly if you add width/height properties
+//to the image tag
+logos.ie();
+
+//get an image which is scaled to specified dimensions (for use inline in another svg):
+logos.ie({
+  x: 0,
+  y: 0,
+  width: 100,
+  height: 100
+});
+```
 
 ## Sources
 

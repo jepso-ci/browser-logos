@@ -3,7 +3,7 @@ var assert = require('assert');
 var browsers = [];
 function browser(name) {
   browsers.push(name);
-  describe('.' + name, function () {
+  describe('.' + name + '(options)', function () {
     it('is a string', function () {
       assert(typeof logos[name]() === 'string');
     });

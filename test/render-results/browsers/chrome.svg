@@ -1,4 +1,4 @@
-<svg x="0" y="0" width="256" height="256" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 256 256">
+<svg width="256" height="256" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 256 256">
   <circle fill="#4E4A4A" cx="128.075" cy="126.26" r="109" />
   <linearGradient id="chrome-logo-1" gradientUnits="userSpaceOnUse" x1="324.5693" y1="-144.0381" x2="427.235" y2="-261.3711" gradientTransform="matrix(1 0 0 -1 -256 -90)">
     <stop offset="0" style="stop-color:#DED9D9" />

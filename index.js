@@ -6,14 +6,17 @@ function load(name) {
   return cache[name] || (cache[name] = fs.readFileSync(path.join(__dirname, 'images', name + '.svg'), 'utf8'));
 }
 function render(text, options) {
-  options = options || {};
-  var viewbox = /^\<svg [^\>]*viewBox\=\"([\-\d\.]+)[px ]+([\-\d\.]+)[px ]+([\d\.]+)[px ]+([\d\.]+)[px ]*\"/.exec(text);
-  if (!viewbox) throw new Error('SVG must have viewBox and nothing can precede <svg');
-  var width = options.width || viewbox[3];
-  var height = options.height || viewbox[4];
-  var x = options.x || 0;
-  var y = options.y || 0;
-  return text.replace(/^\<svg /, '<svg x="' + x + '" y="' + y + '" width="' + width + '" height="' + height + '" ');
+  if (options && typeof options == 'object') {
+    var width = options.width || 256;
+    var height = options.height || 256;
+    var x = options.x || 0;
+    var y = options.y || 0;
+    return text.replace(/^\<svg /, '<svg x="' + x + '" y="' + y + '" ')
+      .replace(/^(\<svg [^\>]*width=\")[^\"]+(\")/, '$1' + width + '"')
+      .replace(/^(\<svg [^\>]*height=\")[^\"]+(\")/, '$1' + height + '"');
+  } else {
+    return text;
+  }
 }
 
 module.exports = {
