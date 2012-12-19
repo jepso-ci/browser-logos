@@ -1,7 +1,9 @@
 [![Build Status](https://travis-ci.org/jepso-ci/browser-logos.png?branch=master)](https://travis-ci.org/jepso-ci/browser-logos)
 # browser-logos
 
-  A collection of SVG logos for different web-browsers
+  A collection of SVG logos for different web-browsers:
+
+![demo](http://i.imgur.com/6pNX9.png)
 
 ## Usage
 
