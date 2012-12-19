@@ -13,4 +13,4 @@
    - [android](http://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg)
    - [apple](http://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg)
 
-  So far I only have a png for Safari [here](http://upload.wikimedia.org/wikipedia/en/6/61/Apple_Safari.png)
+So far I only have a png for Safari [here](http://upload.wikimedia.org/wikipedia/en/6/61/Apple_Safari.png)
