@@ -143,25 +143,19 @@
     <stop offset="0" style="stop-color:#F4DD80" />
     <stop offset="1" style="stop-color:#F4DD80;stop-opacity:0.3" />
   </linearGradient>
-  <path fill="url(#chrome-logo-17)" d="M247.033,140.166c0,0-3.25-14.64-12.469-14.234l0.094-1.391 C234.658,124.542,244.283,123.792,247.033,140.166z" />
 
   <linearGradient id="chrome-logo-18" gradientUnits="userSpaceOnUse" x1="491.7793" y1="-206.5625" x2="467.195" y2="-274.9928" gradientTransform="matrix(1 0 0 -1 -256 -90)">
     <stop offset="0" style="stop-color:#F4DD80" />
     <stop offset="1" style="stop-color:#F4DD80;stop-opacity:0.3" />
   </linearGradient>
-  <path fill="url(#chrome-logo-18)" d="M234.564,125.932h1.156c-0.779,11.214-6.832,50.207-35.229,68.214 C200.492,194.146,230.689,173.182,234.564,125.932z" />
-  <path fill="#D1AB1A" d="M188.91,226.063c0,0,3.582-9-7.668-19.75c0,0,31.25-18,41.084-39.334 c9.832-21.332,11.166-38,10.832-43.666c0,0,11.75-1.896,14,16.478c0,0-2.375-14.375-12.5-15.25c0,0-1.461,25.083-12.125,44.563 c-9.375,17.125-24.75,27.375-39,37.5C183.533,206.604,193.16,217.52,188.91,226.063z" />
 
   <linearGradient id="chrome-logo-19" gradientUnits="userSpaceOnUse" x1="440.0918" y1="-293.0024" x2="445.4176" y2="-309.92" gradientTransform="matrix(1 0 0 -1 -256 -90)">
     <stop offset="0" style="stop-color:#F4DD80" />
     <stop offset="1" style="stop-color:#F4DD80;stop-opacity:0.3" />
   </linearGradient>
-  <path fill="url(#chrome-logo-19)" d="M184.596,205.822c0,0,8.625,10.531,4.969,18.719c0,0,2.781-6.688-6.063-17.938L184.596,205.822z" />
 
   <linearGradient id="chrome-logo-20" gradientUnits="userSpaceOnUse" x1="414.5322" y1="-303.7339" x2="426.1514" y2="-323.9412" gradientTransform="matrix(1 0 0 -1 -256 -90)">
     <stop offset="0" style="stop-color:#F4DD80" />
     <stop offset="1" style="stop-color:#F4DD80;stop-opacity:0.3" />
   </linearGradient>
-  <path fill="url(#chrome-logo-20)" d="M157.033,236.604c0,0-5.625-10-6.625-14.625c0,0,16.25-4,22.125-6.875c0,0,4.125,4.75,7,14.5 c0,0,0.125-9.25-6.875-16.5l-24.75,7.75C147.908,220.854,153.658,233.229,157.033,236.604z" />
-  <path fill="#D1AB1A" d="M158.242,238.063c0,0-7.75-5.998-11.416-18.082c0,0,15.666-3.002,25.916-7.834c0,0,8.25,7.75,7.25,19.916 c0,0-0.5-10.916-7.334-18.332c0,0-16.25,6.498-23.75,7.416C148.908,221.146,151.326,229.98,158.242,238.063z" />
 </svg>
