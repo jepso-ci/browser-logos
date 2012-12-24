@@ -138,24 +138,4 @@
     <stop offset="1" style="stop-color:#496D4E" />
   </linearGradient>
   <path fill="url(#chrome-logo-16)" d="M84.864,98.979c0,0,1.125,19.75,6.375,23.75c0,0,8.208,20.16,39.542,18.326l-3.042,5.674 c0,0-23.75,6.25-33.875-9.125C83.739,122.229,83.739,112.604,84.864,98.979z" />
-
-  <linearGradient id="chrome-logo-17" gradientUnits="userSpaceOnUse" x1="492.6963" y1="-215.0396" x2="499.5298" y2="-223.5401" gradientTransform="matrix(1 0 0 -1 -256 -90)">
-    <stop offset="0" style="stop-color:#F4DD80" />
-    <stop offset="1" style="stop-color:#F4DD80;stop-opacity:0.3" />
-  </linearGradient>
-
-  <linearGradient id="chrome-logo-18" gradientUnits="userSpaceOnUse" x1="491.7793" y1="-206.5625" x2="467.195" y2="-274.9928" gradientTransform="matrix(1 0 0 -1 -256 -90)">
-    <stop offset="0" style="stop-color:#F4DD80" />
-    <stop offset="1" style="stop-color:#F4DD80;stop-opacity:0.3" />
-  </linearGradient>
-
-  <linearGradient id="chrome-logo-19" gradientUnits="userSpaceOnUse" x1="440.0918" y1="-293.0024" x2="445.4176" y2="-309.92" gradientTransform="matrix(1 0 0 -1 -256 -90)">
-    <stop offset="0" style="stop-color:#F4DD80" />
-    <stop offset="1" style="stop-color:#F4DD80;stop-opacity:0.3" />
-  </linearGradient>
-
-  <linearGradient id="chrome-logo-20" gradientUnits="userSpaceOnUse" x1="414.5322" y1="-303.7339" x2="426.1514" y2="-323.9412" gradientTransform="matrix(1 0 0 -1 -256 -90)">
-    <stop offset="0" style="stop-color:#F4DD80" />
-    <stop offset="1" style="stop-color:#F4DD80;stop-opacity:0.3" />
-  </linearGradient>
 </svg>
