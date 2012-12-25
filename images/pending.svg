@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="60" height="60" viewBox="0 0 60 60">
+  <path d="M 4 30 L 20 30 M 40 30 L 56 30
+           M 30 4 L 30 20 M 30 40 L 30 56
+           M 11.6 11.6 L 22.93 22.93 M 37.07 37.07 L 48.4 48.4
+           M 48.4 11.6 L 37.07 22.93 M 22.93 37.07 L 11.6 48.4" style="stroke: orange; stroke-width:5px; fill: none; stroke-linejoin: round">
+    <animateTransform
+            attributeName="transform"
+            begin="0s"
+            dur="4s"
+            type="rotate"
+            from="0 30 30"
+            to="360 30 30"
+            repeatCount="indefinite" 
+        />
+  </path>
+</svg>

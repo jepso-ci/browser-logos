@@ -1,8 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="600px" height="400px">
-  <rect x="0" y="0" width="600" height="400" style="stroke: black; fill: #E0E0E0" />
-  <line x1="200" y1="0" x2="200" y2="400" style="stroke: black"/>
-  <line x1="400" y1="0" x2="400" y2="400" style="stroke: black"/>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="600px" height="600px">
+  <rect x="0" y="0" width="600" height="600" style="stroke: black; fill: #E0E0E0" />
+  <line x1="200" y1="0" x2="200" y2="600" style="stroke: black"/>
+  <line x1="400" y1="0" x2="400" y2="600" style="stroke: black"/>
   <line x1="0" y1="200" x2="600" y2="200" style="stroke: black"/>
+  <line x1="0" y1="400" x2="600" y2="400" style="stroke: black"/>
   <svg x="0" y="0" width="200" height="200" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 109.40017 100.77499">
   <defs>
     <radialGradient id="ie-logo-3275" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.869,0.4949,-0.4095,0.7191,90.1259,-29.9967)" cx="157.0107" cy="169.83791" r="175.4256" >
@@ -94,25 +95,19 @@
       </radialGradient>
       <ellipse fill="url(#firefox-logo-61)" cx="63.755" cy="59.375" rx="58.215" ry="58.254" />
       <g>
-        <defs>
-          <ellipse id="firefox-logo-8" cx="63.755" cy="59.375" rx="58.215" ry="58.254" />
-        </defs>
-        <clipPath id="firefox-logo-68">
-          <use xlink:href="#firefox-logo-8" />
-        </clipPath>
-        <linearGradient id="firefox-logo-70" gradientUnits="userSpaceOnUse" x1="38.4917" y1="19.147" x2="29.1739" y2="32.8324">
+        <linearGradient id="firefox-logo-70" gradientUnits="userSpaceOnUse" x1="38" y1="19" x2="29" y2="33">
           <stop offset="0" style="stop-color:#0F80BC" />
-          <stop offset="0.3376" style="stop-color:#0A5F9E" />
+          <stop offset="0.3" style="stop-color:#0A5F9E" />
           <stop offset="1" style="stop-color:#00145A" />
         </linearGradient>
-        <path clip-path="url(#firefox-logo-68)" fill="url(#firefox-logo-70)" d="M38.752,6.095 c-10.573,4.747-18.551,14.531-18.551,14.531s0.938,2.145,1.265,1.987c0.33-0.156-2.361,5.628-0.386,5.954 c1.985,0.325,7.696-3.578,6.637-3.22c-1.056,0.356,0.595-2.112,0.595-2.112s2.972-1.318,1.214,0.202 c-1.743,1.511,2.318,0.187,2.255,0.496c-0.064,0.311,0.525,1.147,0.525,1.147s-1.393,1.494,0.406,0.892 c6.172-2.075,0.812,1.779,0.812,1.779l0.106,1.312l2.67,0.464l1.578-0.15c0,0,1.381-2.436,1.914-3.098 c0.535-0.663,1.028-3.284,1.028-3.284s0.803-0.084-0.213-0.468c-1.016-0.385,0.972-1.583,1.886-1.434l4.303-1.336 c0.138,0.068,0.292,0.103,0.47,0.082c0.985-0.114,0.489,1.603,1.294,2.25c0.796,0.644,2.627,1.264,3.283,0.469 c-0.784-0.594,0.674-2.011,0.86-0.751c0.187,1.249,0.767,0.723,0.767,0.723s1.543-2.654,2.036-4.177 c0.27,0.377,2.788-3.309,2.025-5.067c-0.771-1.78,0.479-3.456,0.34-3.715c-0.143-0.256-0.896,0.528-0.34,0.34 c0.561-0.192-1.589,0.772-1.874-2.061c-0.288-2.89-0.707,0.243-0.985,1.169c0.377,1.508,4.29-6.093,4.29-6.093l5.044-2.057 C64.006,0.873,52.525-0.088,38.752,6.095z" />
+        <path fill="url(#firefox-logo-70)" d="M38.752,6.095 c-10.573,4.747-18.551,14.531-18.551,14.531s0.938,2.145,1.265,1.987c0.33-0.156-2.361,5.628-0.386,5.954 c1.985,0.325,7.696-3.578,6.637-3.22c-1.056,0.356,0.595-2.112,0.595-2.112s2.972-1.318,1.214,0.202 c-1.743,1.511,2.318,0.187,2.255,0.496c-0.064,0.311,0.525,1.147,0.525,1.147s-1.393,1.494,0.406,0.892 c6.172-2.075,0.812,1.779,0.812,1.779l0.106,1.312l2.67,0.464l1.578-0.15c0,0,1.381-2.436,1.914-3.098 c0.535-0.663,1.028-3.284,1.028-3.284s0.803-0.084-0.213-0.468c-1.016-0.385,0.972-1.583,1.886-1.434l4.303-1.336 c0.138,0.068,0.292,0.103,0.47,0.082c0.985-0.114,0.489,1.603,1.294,2.25c0.796,0.644,2.627,1.264,3.283,0.469 c-0.784-0.594,0.674-2.011,0.86-0.751c0.187,1.249,0.767,0.723,0.767,0.723s1.543-2.654,2.036-4.177 c0.27,0.377,2.788-3.309,2.025-5.067c-0.771-1.78,0.479-3.456,0.34-3.715c-0.143-0.256-0.896,0.528-0.34,0.34 c0.561-0.192-1.589,0.772-1.874-2.061c-0.288-2.89-0.707,0.243-0.985,1.169c0.377,1.508,4.29-6.093,4.29-6.093l5.044-2.057 C64.006,0.873,52.525-0.088,38.752,6.095z" />
       </g>
       <linearGradient id="firefox-logo-71" gradientUnits="userSpaceOnUse" x1="62.6519" y1="34.5464" x2="62.6519" y2="11.8951">
-        <stop offset="0.0137" style="stop-color:#000000" stop-opacity="0" />
-        <stop offset="0.65" style="stop-color:#C4E0E3" stop-opacity="0.2" />
-        <stop offset="0.8224" style="stop-color:#C4E0E3" />
-        <stop offset="0.8498" style="stop-color:#CDE5E8" />
-        <stop offset="0.9443" style="stop-color:#E8F4F7" />
+        <stop offset="0" style="stop-color:#000000" stop-opacity="0" />
+        <stop offset="0.6" style="stop-color:#C4E0E3" stop-opacity="0.2" />
+        <stop offset="0.8" style="stop-color:#C4E0E3" />
+        <stop offset="0.85" style="stop-color:#CDE5E8" />
+        <stop offset="0.9" style="stop-color:#E8F4F7" />
         <stop offset="1" style="stop-color:#F2FAFC" />
       </linearGradient>
       <ellipse opacity="0.5" fill="url(#firefox-logo-71)" cx="62.652" cy="23.271" rx="30.825" ry="19.971" />
@@ -271,24 +266,24 @@
       <path fill="url(#firefox-logo-117)" d="M100.412,58.065c0,0,8.057,22.932-17.693,44.432 c-1.519,1.269,10.452,0.726,11.5,0.25c3.086-1.402,6.733-10.757,6.303-9.637C100.095,94.229,112.479,76.574,100.412,58.065z" />
       <linearGradient id="firefox-logo-118" gradientUnits="userSpaceOnUse" x1="58.3691" y1="113.8594" x2="105.8753" y2="85.4649">
         <stop offset="0" style="stop-color:#B9120D" />
-        <stop offset="0.8136" style="stop-color:#FEFD07" />
+        <stop offset="0.8" style="stop-color:#FEFD07" />
         <stop offset="1" style="stop-color:#FFFFC7" />
       </linearGradient>
       <path fill="url(#firefox-logo-118)" d="M111.68,72.61c0,0-4.86,29.744-38.461,32.137 c-13.157,0.938-32.048-2.141-30.375,2.877c0.519,1.556,2.992,8.043,8.636,9.548C66.755,121.247,107.395,119.913,111.68,72.61z " />
     </g>
     <g>
       <linearGradient id="firefox-logo-119" gradientUnits="userSpaceOnUse" x1="54.2402" y1="93.5825" x2="102.9066" y2="100.176" gradientTransform="matrix(0.9951 0.0989 -0.0989 0.9951 10.3843 -6.0754)">
-        <stop offset="0.0562" style="stop-color:#DE7210" />
+        <stop offset="0" style="stop-color:#DE7210" />
         <stop offset="1" style="stop-color:#F6C08F" />
       </linearGradient>
       <path fill="url(#firefox-logo-119)" d="M83.657,95.119c0,0-20.559,4.697-33.878-6.641 c-12.187-10.377-6.141-1.643-4.488,2.665c1.698,4.418-7.853,1.042-9.289,0.332C34.571,90.774,58.625,105.859,83.657,95.119z" />
       <linearGradient id="firefox-logo-120" gradientUnits="userSpaceOnUse" x1="39.0127" y1="89.8896" x2="95.5219" y2="107.6497" gradientTransform="matrix(0.9895 0.1448 -0.1448 0.9895 14.2829 -5.8352)">
-        <stop offset="0.0562" style="stop-color:#DE7210" />
+        <stop offset="0" style="stop-color:#DE7210" />
         <stop offset="1" style="stop-color:#F6C08F" />
       </linearGradient>
       <path fill="url(#firefox-logo-120)" d="M70.408,106.325c0,0-24.525-4.82-32.29-21.438 c-6.635-14.197-4.879-3.779-5.178,0.962c-0.314,4.877-7.191-1.783-8.11-2.942c-0.026-0.028-0.044-0.047-0.046-0.042 C24.647,82.955,37.433,102.999,70.408,106.325z" />
       <linearGradient id="firefox-logo-121" gradientUnits="userSpaceOnUse" x1="-601.4673" y1="628.9609" x2="-574.5974" y2="680.4042" gradientTransform="matrix(0.9837 -0.1799 0.1799 0.9837 500.9515 -643.7268)">
-        <stop offset="0.0562" style="stop-color:#DE7210" />
+        <stop offset="0" style="stop-color:#DE7210" />
         <stop offset="1" style="stop-color:#F6C08F" />
       </linearGradient>
       <path fill="url(#firefox-logo-121)" d="M43.617,104.176c0,0-11.714-9.073-16.995-21.514 c-4.438-1.542-10.339-5.067-10.456-5.67C18.041,86.659,27.912,97.946,43.617,104.176z" />
@@ -357,5 +352,27 @@
 </svg>
 <svg x="400" y="200" width="200" height="200" xmlns="http://www.w3.org/2000/svg" version="1.0" viewBox="0 0 101 121">
   <path d="m 28.709,28.63 c 3.516,0 7.758,0.726 12.727,2.179 5.015,1.454 8.343,2.18 9.984,2.18 2.109,0 5.555,-0.82 10.336,-2.461 4.781,-1.64 8.93,-2.461 12.445,-2.461 5.766,0 10.899,1.547 15.399,4.641 2.531,1.781 5.039,4.195 7.523,7.242 -3.75,3.188 -6.492,6.024 -8.226,8.508 -3.141,4.5 -4.711,9.469 -4.711,14.906 0,5.953 1.664,11.32 4.992,16.102 3.328,4.781 7.125,7.804 11.392,9.07 -1.783,5.766 -4.736,11.794 -8.861,18.074 -6.234,9.42 -12.422,14.13 -18.562,14.13 -2.438,0 -5.813,-0.77 -10.125,-2.32 -4.266,-1.55 -7.875,-2.32 -10.828,-2.32 -2.954,0 -6.399,0.8 -10.336,2.39 -3.891,1.64 -7.055,2.46 -9.493,2.46 -7.359,0 -14.578,-6.23 -21.656,-18.7 C 3.631,89.919 0.092,77.825 0.092,65.966 0.09199,54.95 2.7873,45.974 8.1779,39.036 13.615,32.098 20.4589,28.63 28.7089,28.63 M 73.0059,0.927 c 0.187,0.60946 0.305,1.1486 0.352,1.6172 0.046,0.4689 0.07,0.9376 0.07,1.4063 0,3.0001 -0.703,6.281 -2.109,9.844 -1.407,3.562 -3.633,6.867 -6.68,9.914 -2.625,2.578 -5.227,4.312 -7.805,5.203 -1.64,0.516 -4.125,0.914 -7.453,1.195 0.094,-7.125 1.945,-13.289 5.555,-18.492 3.656,-5.203 9.679,-8.7655 18.07,-10.687" />
+</svg>
+<svg x="0" y="400" xmlns="http://www.w3.org/2000/svg" version="1.1" width="200" height="200" viewBox="0 0 60 60">
+  <path d="M 4 34 L 20 54 L 54 4" style="stroke: green; stroke-width:5px; fill: none; stroke-linejoin: round" />
+</svg>
+<svg x="200" y="400" xmlns="http://www.w3.org/2000/svg" version="1.1" width="200" height="200" viewBox="0 0 60 60">
+  <path d="M 4 30 L 20 30 M 40 30 L 56 30
+           M 30 4 L 30 20 M 30 40 L 30 56
+           M 11.6 11.6 L 22.93 22.93 M 37.07 37.07 L 48.4 48.4
+           M 48.4 11.6 L 37.07 22.93 M 22.93 37.07 L 11.6 48.4" style="stroke: orange; stroke-width:5px; fill: none; stroke-linejoin: round">
+    <animateTransform
+            attributeName="transform"
+            begin="0s"
+            dur="4s"
+            type="rotate"
+            from="0 30 30"
+            to="360 30 30"
+            repeatCount="indefinite" 
+        />
+  </path>
+</svg>
+<svg x="400" y="400" xmlns="http://www.w3.org/2000/svg" version="1.1" height="200" width="200" viewBox="0 0 60 60">
+  <path d="M 4 4 L 56 56 M 56 4 L 4 56" style="stroke: red; stroke-width:5px; fill: none; stroke-linejoin: round" />
 </svg>
 </svg>

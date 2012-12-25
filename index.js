@@ -37,5 +37,15 @@ module.exports = {
   },
   apple: function apple(options) {
     return render(load('apple'), options);
+  },
+
+  pass: function pass(options) {
+    return render(load('pass'), options);
+  },
+  fail: function fail(options) {
+    return render(load('fail'), options);
+  },
+  pending: function pending(options) {
+    return render(load('pending'), options);
   }
 };

@@ -17,6 +17,10 @@ describe('exports', function () {
   browser('opera');
   browser('android');
   browser('apple');
+
+  browser('pass');
+  browser('pending');
+  browser('fail');
 });
 
 if (!process.env.CI) {
