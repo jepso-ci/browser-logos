@@ -76,14 +76,6 @@
         <stop offset="0.8972" style="stop-color:#E85C0A" />
       </linearGradient>
       <path fill="url(#firefox-logo-75)" d="M45.469,27.61c0,0,2.21,6.039,7.167,6.019 c9.457-0.038,9.646,0.093,9.707,1.243c0.188,3.5-1.54,4.647-2.201,5.145c-0.663,0.497-9.668,5.718-9.999,7.211 C49.812,48.72,39.752,33.03,39.752,33.03L45.469,27.61z" />
-      <linearGradient id="firefox-logo-76" gradientUnits="userSpaceOnUse" x1="24.4502" y1="33.9526" x2="63.643" y2="38.8517">
-        <stop offset="0.0112" style="stop-color:#941403" />
-        <stop offset="0.1357" style="stop-color:#A32104" />
-        <stop offset="0.4978" style="stop-color:#C84107" />
-        <stop offset="0.7893" style="stop-color:#DF5509" />
-        <stop offset="0.972" style="stop-color:#E85C0A" />
-      </linearGradient>
-      <path fill="url(#firefox-logo-76)" d="M50.504,34.12c0,0,3.072,3.922,0.749,5.491 c-2.838,1.916,4.012,2.335,6.494,0.942s4.006-3.44,4.093-3.745s0.902-3.054-4.279-2.096 C54.285,35.318,53.085,35.458,50.504,34.12z" />
       <linearGradient id="firefox-logo-77" gradientUnits="userSpaceOnUse" x1="48.731" y1="44.3203" x2="51.8565" y2="42.9451">
         <stop offset="0" style="stop-color:#F2C8A9" />
         <stop offset="1" style="stop-color:#FFFFCC" />
