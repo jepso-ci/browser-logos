@@ -5,11 +5,12 @@
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {
-    "mocha": "~1.7.4",
-    "open": "0.0.2"
+    "mocha": "*",
+    "open": "*",
+    "uglify-js": "*"
   },
   "scripts": {
-    "test": "mocha -R spec"
+    "test": "node build && mocha -R spec"
   },
   "repository": {
     "type": "git",

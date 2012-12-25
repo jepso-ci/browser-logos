@@ -3,7 +3,7 @@ var path = require('path');
 
 var cache = {};
 function load(name) {
-  return cache[name] || (cache[name] = fs.readFileSync(path.join(__dirname, 'images', name + '.svg'), 'utf8').replace(/\r/g, ''));
+  return require('./js-images/' + name);
 }
 function render(text, options) {
   if (options && typeof options == 'object') {
