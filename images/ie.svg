@@ -1,27 +1,18 @@
 <svg width="256" height="256" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 109.40017 100.77499">
   <defs>
     <radialGradient id="ie-logo-3275" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.869,0.4949,-0.4095,0.7191,90.1259,-29.9967)" cx="157.0107" cy="169.83791" r="175.4256" >
-      <stop style="stop-color:#3DC5F1" offset="0.4713" />
-      <stop style="stop-color:#31A5DC" offset="0.7905" />
+      <stop style="stop-color:#3DC5F1" offset="0.4" />
       <stop style="stop-color:#1E71B8" offset="1" />
     </radialGradient>
     <radialGradient id="ie-logo-3277" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.7101,0.7041,-1.8774,1.8936,417.7134,-296.0714)" cx="171.77879" cy="195.98" r="78.793503" >
-      <stop style="stop-color:#FFCC09" offset="0.638" />
-      <stop style="stop-color:#F2ED7E;stop-opacity:0.96" offset="0.8712" />
-      <stop style="stop-color:#F3EC79;stop-opacity:0.8057" offset="0.8919" />
-      <stop style="stop-color:#F4E76A;stop-opacity:0.6187" offset="0.917" />
-      <stop style="stop-color:#F7E051;stop-opacity:0.4146" offset="0.9444" />
-      <stop style="stop-color:#FBD730;stop-opacity:0.2" offset="0.9732" />
+      <stop style="stop-color:#FFCC09" offset="0.6" />
+      <stop style="stop-color:#F2ED7E;stop-opacity:0.96" offset="0.8" />
       <stop style="stop-color:#FFCC09;stop-opacity:0" offset="1" />
     </radialGradient>
     <radialGradient id="ie-logo-3279" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.7015,0.7127,-1.8844,1.8549,441.4625,-309.2913)" cx="188.8398" cy="204.3584" r="89.172897">
-      <stop style="stop-color:#F2ED7E;stop-opacity:0" offset="0.5583" />
-      <stop style="stop-color:#FFCC09" offset="0.7398" />
-      <stop style="stop-color:#F2ED7E;stop-opacity:0.96" offset="0.8712" />
-      <stop style="stop-color:#F3EB77;stop-opacity:0.8174" offset="0.8903" />
-      <stop style="stop-color:#F5E562;stop-opacity:0.6033" offset="0.919" />
-      <stop style="stop-color:#F9DC40;stop-opacity:0.3442" offset="0.9538" />
-      <stop style="stop-color:#FECF12;stop-opacity:0.0522" offset="0.993" />
+      <stop style="stop-color:#F2ED7E;stop-opacity:0" offset="0.5" />
+      <stop style="stop-color:#FFCC09" offset="0.7" />
+      <stop style="stop-color:#F2ED7E;stop-opacity:0.9" offset="0.8" />
       <stop style="stop-color:#FFCC09;stop-opacity:0" offset="1" />
     </radialGradient>
   </defs>
