@@ -1,7 +1,3 @@
-var fs = require('fs');
-var path = require('path');
-
-var cache = {};
 function load(name) {
   return require('./js-images/' + name);
 }
