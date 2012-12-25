@@ -4,12 +4,7 @@
       <ellipse fill="#110070" cx="63.755" cy="59.375" rx="59.336" ry="59.375" />
       <radialGradient id="firefox-logo-61" cx="64.5688" cy="7.2266" r="104.221" fx="64.5688" fy="7.2266" gradientUnits="userSpaceOnUse">
         <stop offset="0" style="stop-color:#67C5D5" />
-        <stop offset="0.1604" style="stop-color:#66C2D3" />
-        <stop offset="0.2795" style="stop-color:#62B9CE" />
-        <stop offset="0.3852" style="stop-color:#5CA8C6" />
-        <stop offset="0.4832" style="stop-color:#5392BA" />
         <stop offset="0.5759" style="stop-color:#4874AA" />
-        <stop offset="0.6646" style="stop-color:#3A5097" />
         <stop offset="0.7485" style="stop-color:#2A2781" />
         <stop offset="0.8146" style="stop-color:#1B006D" />
         <stop offset="1" style="stop-color:#596AAD" />
