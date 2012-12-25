@@ -1,45 +1,5 @@
 <svg width="256" height="256" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <ellipse clip-rule="evenodd" cx="127.998" cy="126" fill="#FFF" fill-rule="evenodd" opacity="0.01" rx="74.076" ry="104" />
-  <g opacity="0.85">
-    <defs>
-      <filter filterUnits="userSpaceOnUse" height="27.633" id="opera-logo-a" width="160.456" x="48.126" y="216.987">
-        <feFlood result="back" style="flood-color:white;flood-opacity:1;" />
-        <feBlend in="SourceGraphic" in2="back" mode="normal" />
-      </filter>
-    </defs>
-    <mask height="27.633" id="opera-logo-1" maskUnits="userSpaceOnUse" width="160.456" x="48.126" y="216.987">
-      <g filter="url(#opera-logo-a)">
-        <image height="33" overflow="visible" transform="matrix(1 0 0 1 46 214)" width="165" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEASABIAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA EAMCAwYAAAHqAAACyQAAA13/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa JjAjHh4eHiMwKy4nJycuKzU1MDA1NUBAP0BAQEBAQEBAQEBAQP/CABEIACEApQMBIgACEQEDEQH/ xACCAAEBAAIDAQAAAAAAAAAAAAAABwQFAQMGAgEBAAAAAAAAAAAAAAAAAAAAABAAAgICAgICAwEA AAAAAAAAAAMCBAEFBhYUFVARECBAIhEAAgEEAgIBBQAAAAAAAAAAAAExESGhMgIiEBJBIEBRcYES AQAAAAAAAAAAAAAAAAAAAFD/2gAMAwEAAhEDEQAAAJ+5zjA+vR7c8XkUDZExVf7JMrIkysiTcVrg knRXMIlXXR9SeNbrWHQDs2+kHtNtOsgqGwlOWVT6mHcUlOBR04FH4nHWUbDn+Me61XkcU9BpcL4O XAAAAAAAAAAAA//aAAgBAgABBQD4H//aAAgBAwABBQD4H//aAAgBAQABBQD8xUyRChamL0t2eMcf vZOvXjr1469eOvXjr1469eOv3jOiu4J6u5DMqz4GcZx+kY5lmvrZMKumWVtMor6ZQnTqI6hR6hJ6 lJ6lJ6lJ6lJ6lJnUKGadQ7TKLGlUWtIotaeMR1WasiWYhKpcVgrXVFa8oReUJvqI3VZPMUeWo8tR 5ajy1HmKM3VDLyh15Q+8otXVFq4ot2YSPv8A0YznBCy6Ava2li+Q2YYTylkcR5fnBHl0frt0Tt0T t0Tt0Tt0RnLvoly2WRvJnyyze2ZjNjZYSayX9H//2gAIAQICBj8AB//aAAgBAwIGPwAH/9oACAEB AQY/APPXi3/C3BlfWhGCMEYIwRgjBGCMEF+B24OxdU+iiF7CrxF1QuqNUao1RqjVGqNUao1RqjUf VD6ofqqH5XirgV0K6FclEkokkkkkkkklDuh3Q7oaVyvix15smpdZO1Uz5Njc3Nzc2LNv9HyWToWL 8qHbk39x/9k=" />
-      </g>
-    </mask>
-    <g mask="url(#opera-logo-1)">
-      <linearGradient gradientUnits="userSpaceOnUse" id="opera-logo-2" x1="128.354" x2="128.354" y1="216.9873" y2="244.6201">
-        <stop offset="0" stop-color="#000" stop-opacity="0" />
-        <stop offset="1" stop-color="#000" />
-      </linearGradient>
-      <path clip-rule="evenodd" d="M48.126,231.84c0-7.56,35.343-14.854,79.691-14.854,44.346,0,80.765,7.294,80.765,14.854,0,6.936-32.511,12.779-80.765,12.779-48.259,0-79.694-6.36-79.694-12.78z" fill="url(#opera-logo-2)" fill-rule="evenodd" />
-    </g>
-  </g>
-  <g opacity="0.85">
-    <defs>
-      <filter filterUnits="userSpaceOnUse" height="27.633" id="opera-logo-b" width="118.725" x="68.99" y="216.987">
-        <feFlood result="back" style="flood-color:white;flood-opacity:1;" />
-        <feBlend in="SourceGraphic" in2="back" mode="normal" />
-      </filter>
-    </defs>
-    <mask height="27.633" id="opera-logo-3" maskUnits="userSpaceOnUse" width="118.725" x="68.99" y="216.987">
-      <g filter="url(#opera-logo-b)">
-        <image height="33" overflow="visible" transform="matrix(1 0 0 1 66 214)" width="124" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEASABIAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA EAMCAwYAAAHWAAAClQAAAy//2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa JjAjHh4eHiMwKy4nJycuKzU1MDA1NUBAP0BAQEBAQEBAQEBAQP/CABEIACEAfAMBIgACEQEDEQH/ xACEAAEBAAIDAQAAAAAAAAAAAAAABwIFAwQGAQEBAAAAAAAAAAAAAAAAAAAAABAAAQQCAgICAwAA AAAAAAAAAwABAgUEBhEWQBMQFBIiFREAAgAFAwQCAwAAAAAAAAAAAAERITECMmGhIhBBcQOBEkBR kRIBAAAAAAAAAAAAAAAAAAAAQP/aAAwDAQACEQMRAAAAn7PeGi7FA3hLs61mSNXRIldEg4LJwEY4 a55s8O2GvOx6vxmRXNxGNiVvKYdgo6eihJ78KHhN+qUbz/itebbQvgAAAAAAAB//2gAIAQIAAQUA 8j//2gAIAQMAAQUA8j//2gAIAQEAAQUA+IjnNx1maVD12wm3WLBdYsF1ewXV7BdYsE+tWDIlJnjc mJkjTs7fIxSLKuoGK9frgGYFECLQqwRX88C+gBfQAvoAX88ClWgdEpgSWXrwJNZa2HjNq5478Pzi GiElXZA4wLIPA84MmY4nXsgvZBeyC9kF7IJyjZSyhRWTYhZrGyBxa54pL8v2UCTg4LrNCg7blwYe 6yiw92g7d1Eu6iXdRJ90Gibs3J9yLJH2bMIjWGUZO7u/g//aAAgBAgIGPwBH/9oACAEDAgY/AEf/ 2gAIAQEBBj8A6Qstd3hHH1v5IwhoU2KbHb+FNimxTYwiv2c/XcoaEH1VttRP2chcELijFGKMUYox RiiiMUPihwtQ3bNLsQ7kbqFs0KaFNGRUqVKlSpNjmhzQ0nFn21j0jZc7XoSuiL7JvwycYk215MzM zMyCbZwTZxktWcr38EW4v8L/2Q==" />
-      </g>
-    </mask>
-    <g mask="url(#opera-logo-3)">
-      <linearGradient gradientUnits="userSpaceOnUse" id="opera-logo-4" x1="128.3521" x2="128.3521" y1="216.9873" y2="244.6201">
-        <stop offset="0" stop-color="#000" stop-opacity="0" />
-        <stop offset="1" stop-color="#000" />
-      </linearGradient>
-      <path clip-rule="evenodd" d="M68.99,231.84c0-7.56,26.153-14.854,58.966-14.854,32.813,0,59.758,7.294,59.758,14.854,0,6.936-24.053,12.779-59.758,12.779-35.711,0-58.97-6.36-58.97-12.78z" fill="url(#opera-logo-4)" fill-rule="evenodd" />
-    </g>
-  </g>
   <linearGradient gradientUnits="userSpaceOnUse" id="opera-logo-5" x1="108.6646" x2="148.682" y1="14.8213" y2="241.7714">
     <stop offset="0" stop-color="#FF8C8F" />
     <stop offset="0.3804" stop-color="#F21818" />
