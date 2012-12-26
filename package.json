@@ -10,7 +10,8 @@
     "uglify-js": "*"
   },
   "scripts": {
-    "test": "node build && mocha -R spec"
+    "test": "node build && mocha -R spec",
+    "prepublish": "npm test"
   },
   "repository": {
     "type": "git",
