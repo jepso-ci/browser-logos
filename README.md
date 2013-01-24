@@ -3,7 +3,7 @@
 
   A collection of SVG logos for different web-browsers:
 
-![demo](http://mocha-ci.com/api/proxy/jepso-ci/browser-logos/master/test/render-results/test-pane-inline.svg)
+![demo](https://jepso-ci.com/api/proxy/jepso-ci/browser-logos/master/test/render-results/test-pane-inline.svg)
 
 ## Usage
 
