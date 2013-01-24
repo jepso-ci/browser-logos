@@ -1,9 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="600px" height="600px">
-  <rect x="0" y="0" width="600" height="600" style="stroke: black; fill: #E0E0E0" />
-  <line x1="200" y1="0" x2="200" y2="600" style="stroke: black"/>
-  <line x1="400" y1="0" x2="400" y2="600" style="stroke: black"/>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="600px" height="800px">
+  <rect x="0" y="0" width="600" height="800" style="stroke: black; fill: #E0E0E0" />
+  <line x1="200" y1="0" x2="200" y2="800" style="stroke: black"/>
+  <line x1="400" y1="0" x2="400" y2="800" style="stroke: black"/>
   <line x1="0" y1="200" x2="600" y2="200" style="stroke: black"/>
   <line x1="0" y1="400" x2="600" y2="400" style="stroke: black"/>
+  <line x1="0" y1="600" x2="600" y2="600" style="stroke: black"/>
   <svg x="0" y="0" width="200" height="200" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 109.40017 100.77499">
 <defs>
 <radialGradient id="ie-logo-3275" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.869,0.4949,-0.4095,0.7191,90.1259,-29.9967)" cx="157.0107" cy="169.83791" r="175.4256" >
@@ -374,5 +375,8 @@ repeatCount="indefinite"
 </svg>
 <svg x="400" y="400" xmlns="http://www.w3.org/2000/svg" version="1.1" height="200" width="200" viewBox="0 0 60 60">
 <path d="M 4 4 L 56 56 M 56 4 L 4 56" style="stroke: red; stroke-width:5px; fill: none; stroke-linejoin: round" />
+</svg>
+<svg x="0" y="600" xmlns="http://www.w3.org/2000/svg" version="1.1" width="200" height="200" viewBox="0 0 60 60">
+<circle cx="30" cy="30" r="25" style="stroke: orange; stroke-width:5px; fill: none; stroke-linejoin: round"/>
 </svg>
 </svg>

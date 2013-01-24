@@ -1,8 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="600px" height="600px">
-  <rect x="0" y="0" width="600" height="600" style="stroke: black; fill: #E0E0E0" />
-  <line x1="200" y1="0" x2="200" y2="600" style="stroke: black"/>
-  <line x1="400" y1="0" x2="400" y2="600" style="stroke: black"/>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="600px" height="800px">
+  <rect x="0" y="0" width="600" height="800" style="stroke: black; fill: #E0E0E0" />
+  <line x1="200" y1="0" x2="200" y2="800" style="stroke: black"/>
+  <line x1="400" y1="0" x2="400" y2="800" style="stroke: black"/>
   <line x1="0" y1="200" x2="600" y2="200" style="stroke: black"/>
   <line x1="0" y1="400" x2="600" y2="400" style="stroke: black"/>
+  <line x1="0" y1="600" x2="600" y2="600" style="stroke: black"/>
   {{content}}
 </svg>
