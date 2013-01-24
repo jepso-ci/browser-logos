@@ -43,5 +43,8 @@ module.exports = {
   },
   pending: function pending(options) {
     return render(load('pending'), options);
+  },
+  queued: function queued(options) {
+    return render(load('queued'), options);
   }
 };

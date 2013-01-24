@@ -21,6 +21,7 @@ describe('exports', function () {
   browser('pass');
   browser('pending');
   browser('fail');
+  browser('queued');
 });
 
 if (!process.env.CI) {

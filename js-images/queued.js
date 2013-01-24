@@ -1,0 +1,1 @@
+module.exports='<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="60" height="60" viewBox="0 0 60 60">\n<circle cx="30" cy="30" r="25" style="stroke: orange; stroke-width:5px; fill: none; stroke-linejoin: round"/>\n</svg>';
