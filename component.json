@@ -2,7 +2,7 @@
   "name": "browser-logos",
   "repo": "jepso-ci/browser-logos",
   "description": "A collection of SVG logos for different web-browsers",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "keywords": [],
   "dependencies": {},
   "development": {},
@@ -16,7 +16,8 @@
     "js-images/ie.js",
     "js-images/opera.js",
     "js-images/pass.js",
-    "js-images/pending.js"
+    "js-images/pending.js",
+    "js-images/queued.js"
   ],
   "license": "MIT"
 }
