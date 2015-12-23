@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/jepso-ci/browser-logos.png?branch=master)](https://travis-ci.org/jepso-ci/browser-logos)
+[![Build Status](https://img.shields.io/travis/jepso-ci/browser-logos/master.svg)](https://travis-ci.org/jepso-ci/browser-logos)
 # browser-logos
 
   A collection of SVG logos for different web-browsers:
